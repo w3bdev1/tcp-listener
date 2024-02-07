@@ -1,6 +1,5 @@
 use std::io::Read;
 use std::net::{TcpListener, TcpStream};
-use std::u8;
 use clap::Parser;
 
 #[derive(Parser, Debug)]
