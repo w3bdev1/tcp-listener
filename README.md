@@ -2,7 +2,7 @@
 
 Listens for TCP connection on localhost and prints the data on console.
 
-Usage: `tcp-listener -p 1024`
+Usage: `tcp-listener -p <PORT>`
 
 Default port: 8080
 
